@@ -1,6 +1,6 @@
 # Marketing-Mix-Modeling-Approaches
 
-## [ADVANCED DATABASE](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
+## [Time Series Adventure](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
 
 **APRIL 24, 2024**
 
