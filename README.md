@@ -1,15 +1,36 @@
-# Marketing-Mix-Modeling-Approaches
+# 📊 Marketing Mix Modeling Enhanced with Machine Learning
 
 ## [Time Series Adventure](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
 
-**APRIL 24, 2024**
+## 🚀 Project Overview
 
----
+This project introduces a hybrid analytics framework designed to overcome the limitations of traditional Marketing Mix Modeling (MMM) by integrating modern machine learning techniques. It delivers enhanced attribution accuracy, real-time responsiveness, and predictive capabilities to optimize marketing strategy and return on investment (ROI).
 
-### INTRODUCTION
-As a database developer consultant for a hospital, I’m to create a complete database system that satisfies the needs of the customer. To effectively store and handle data on patients, medicaldoctor, medical records, appointments and departments, the hospital is creating a new database system. Particular client requirements were obtained at the first meeting in order to make sure that the database system meets the demands of both patients and healthcare practitioners. By making patient registration, appointment scheduling, medical record administration, and feedback gathering easier, this database system will expedite healthcare operations and enhance patient care.
-In this task the first step I’ve decided to take is to prepare an ER proposed database design into 3NF, with the Entities, attributes and the relationships between them, taking into consideration the principles of database design which were thought in lecture. Below is the sketch of my proposed database tables and attributes.
+Using a rich marketing dataset from Conjura, the solution models revenue impact across multiple digital platforms (Google, Meta, TikTok), implements classification for high-revenue periods, and performs budget optimization simulations for marketing efficiency.
+
+## 📚 Key Features
+
+- **Machine Learning Models**: Implements XGBoost, Random Forest, Ridge, and Linear Regression for revenue prediction and classification tasks.
+- **SHAP Interpretability**: Uses SHAP (SHapley Additive Explanations) to decode model decisions and identify top predictive features.
+- **Multi-Touch Attribution**: Breaks down the contribution of impressions, clicks, and spend from various channels.
+- **Budget Optimization**: Simulates reallocation strategies and applies constrained optimization to maximize ROI.
+- **Time Series Forecasting**: Utilizes SARIMA to forecast long-term revenue trends and seasonal cycles.
+- **Scenario Testing**: Tests different "what-if" marketing strategies to guide decision-making.
+
+## 🧪 Technologies Used
+
+- **Python Libraries**: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `statsmodels`, `matplotlib`, `shap`, `scipy`
+- **Modeling Techniques**:
+  - Regression: Linear, Ridge, Random Forest, XGBoost
+  - Classification: Binary Classifiers with AUC/ROC
+  - Forecasting: SARIMA for 2-year projection
+  - Optimization: SLSQP constrained optimization
+- **Explainability Tools**: SHAP (TreeExplainer)
+- **EDA Tools**: `seaborn`, `matplotlib`, `plotly`
+
+## 📁 Folder Structure
 
 
 ##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
 ##### Email Address:C.O.Airiohuodion@edu.salford.ac.uk
+
