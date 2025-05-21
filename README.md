@@ -28,9 +28,19 @@ Using a rich marketing dataset from Conjura, the solution models revenue impact 
 - **Explainability Tools**: SHAP (TreeExplainer)
 - **EDA Tools**: `seaborn`, `matplotlib`, `plotly`
 
+---
+
+![Categorical Feature ](1.png)
+![Categorical Feature ](2.png)
+![Categorical Feature ](3.png)
+Figure 1: Categorical Feature Distributions
+The structural diversity of the dataset is emphasized by the distribution charts. The "Business & Industrial" and "Apparel" sectors comprise the majority of organizations. The two most popular marketing platforms are "Google & Meta." The two largest territories are the US and the UK, and the most common currencies are USD and GBP.
+
+---
+
 ## 📁 Folder Structure
 
 
-##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
+##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/clembrain/Marketing-Mix-Modeling-Approaches)
 ##### Email Address:C.O.Airiohuodion@edu.salford.ac.uk
 
