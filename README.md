@@ -30,11 +30,16 @@ Using a rich marketing dataset from Conjura, the solution models revenue impact 
 
 ---
 
-![Categorical Feature ](1.png)
-![Categorical Feature ](2.png)
-![Categorical Feature ](3.png)
+![Categorical Feature ](/Project_files/1.png)
+![Categorical Feature ](/Project_files/2.png)
+![Categorical Feature ](/Project_files/3.png)
 Figure 1: Categorical Feature Distributions
 The structural diversity of the dataset is emphasized by the distribution charts. The "Business & Industrial" and "Apparel" sectors comprise the majority of organizations. The two most popular marketing platforms are "Google & Meta." The two largest territories are the US and the UK, and the most common currencies are USD and GBP.
+
+---
+
+![Categorical Feature ](/Project_files/4.png)
+Figure 2: Units Sold Over Time by Territory
 
 ---
 
