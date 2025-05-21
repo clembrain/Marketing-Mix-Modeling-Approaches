@@ -38,8 +38,27 @@ The structural diversity of the dataset is emphasized by the distribution charts
 
 ---
 
-![Categorical Feature ](/Project_files/4.png)
+![Units Sold by Territory](/Project_files/4.png)
 Figure 2: Units Sold Over Time by Territory
+Multiple territories' weekly unit sales are tracked by the line plot. 
+
+---
+
+![Click Volume](/Project_files/5.png)
+Figure 5: Click Volume Over Time by Channel
+The volume of user clicks across marketing channels is displayed in this time series. Early on, META FACEBOOK CLICKS was the most popular, but more recently, GOOGLE PMAX CLICKS has become more popular. 
+
+---
+
+![Impression Volume](/Project_files/6.png)
+Figure 6: Impression Volume Over Time by Channel
+
+---
+
+
+
+
+
 
 ---
 
