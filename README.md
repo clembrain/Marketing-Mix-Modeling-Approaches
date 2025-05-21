@@ -1,6 +1,6 @@
 # 📊 Marketing Mix Modeling Enhanced with Machine Learning
 
-## [Time Series Adventure](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
+## [Time Series Adventure](https://github.com/clembrain/Marketing-Mix-Modeling-Approaches) 
 
 ## 🚀 Project Overview
 
