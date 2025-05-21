@@ -45,21 +45,40 @@ Multiple territories' weekly unit sales are tracked by the line plot.
 ---
 
 ![Click Volume](/Project_files/5.png)
-Figure 5: Click Volume Over Time by Channel
+Figure 3: Click Volume Over Time by Channel
 The volume of user clicks across marketing channels is displayed in this time series. Early on, META FACEBOOK CLICKS was the most popular, but more recently, GOOGLE PMAX CLICKS has become more popular. 
 
 ---
 
 ![Impression Volume](/Project_files/6.png)
-Figure 6: Impression Volume Over Time by Channel
+Figure 4: Impression Volume Over Time by Channel
+Click dynamics are generally reflected in impression trends, with Google Shopping constantly achieving high visibility. Frequent surges in impressions point to intense campaign outbursts, especially in PMAX. 
 
 ---
 
+![Spend Over Time](/Project_files/7.png)
+Figure 5: Spend Over Time by Channel 
+The temporal patterns in ad spend across the main digital marketing platforms are depicted in this time series graphic. The biggest investment was always made in Google Shopping, with sporadic budget increases that were probably caused by strategic pushes or seasonal marketing. A noticeable increase in Google PMAX spending recently points to a change in the technique for allocating funds toward campaigns that maximize performance. 
 
+---
 
+![Territories](/Project_files/8.png)
+Figure 6: Territories by Total Revenue
+The US and the UK contribute far more to overall revenue than any other country, followed by Denmark, Hong Kong, and Australia
 
+---
 
+![Territories by Boxplot](/Project_files/9.png)
+Figure 7: Top 10 Territories (Boxplot)
+Without outliers, the revenue distribution for the top 10 territories shows a range of central tendencies and spread as seen in (Figure 7) above.
 
+---
+
+![Top 10 Territories piechart](/Project_files/10.png)
+Figure 8: Revenue Share of Top 10 Territories
+The proportionate revenue share for the best-performing nations is displayed In Figure 3.11. Their dominance in the dataset is further supported by the fact that the US and UK alone generate over 70% of overall revenue.
+
+---
 ---
 
 ## 📁 Folder Structure
